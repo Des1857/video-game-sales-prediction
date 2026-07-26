@@ -109,27 +109,6 @@ According to the Random Forest model, the most influential variables were:
 
 ---
 
-## 📁 Repository Structure
-
-```text
-video-game-sales-prediction/
-│
-├── notebooks/
-│   ├── 01_baseline_model.ipynb
-│   └── 02_model_com.ipynb
-│
-├── data/
-│
-├── images/
-│
-├── README.md
-├── LICENSE
-├── requirements.txt
-└── .gitignore
-```
-
----
-
 # 🇪🇸 Español
 
 ## 📌 Descripción del Proyecto
@@ -229,27 +208,6 @@ Según el modelo Random Forest, las variables con mayor influencia fueron:
 - Mes de lanzamiento
 - Consola
 - Género
-
----
-
-## 📁 Estructura del Repositorio
-
-```text
-video-game-sales-prediction/
-│
-├── notebooks/
-│   ├── 01_baseline_model.ipynb
-│   └── 02_model_com.ipynb
-│
-├── data/
-│
-├── images/
-│
-├── README.md
-├── LICENSE
-├── requirements.txt
-└── .gitignore
-```
 
 ---
 
